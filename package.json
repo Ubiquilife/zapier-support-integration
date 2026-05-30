@@ -12,7 +12,7 @@
     "npm": ">=9"
   },
   "dependencies": {
-    "zapier-platform-core": "^15.0.0"
+    "zapier-platform-core": "^19.0.0"
   },
   "private": true
 }
